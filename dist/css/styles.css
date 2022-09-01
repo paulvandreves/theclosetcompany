@@ -11389,6 +11389,14 @@ hr.divider-light {
   }
 }
 
+.icon_social {
+  font-size: 1.5rem;
+}
+
+#mainNav > div > div.icon_social.my-1.my-lg-0 > a {
+  color: black;
+}
+
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
