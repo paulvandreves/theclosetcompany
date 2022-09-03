@@ -11395,6 +11395,7 @@ hr.divider-light {
 
 #mainNav > div > div.icon_social.my-1.my-lg-0 > a {
   color: black;
+  text-decoration: none;
 }
 
 header.masthead {
