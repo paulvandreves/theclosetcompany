@@ -11478,3 +11478,8 @@ header.masthead h1, header.masthead .h1 {
 .gallery {
   border: 1rem solid white; 
 }
+
+.headerList {
+  text-align: center;
+  list-style-position: inside;
+}
