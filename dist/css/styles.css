@@ -11470,3 +11470,11 @@ header.masthead h1, header.masthead .h1 {
   text-align: left;
   margin-top: 1rem;
 }
+
+.phoneNumber {
+  font-size: 1.5rem;
+}
+
+.gallery {
+  border: 1rem solid white; 
+}
